@@ -1,1 +1,3 @@
 "rakshii" 
+"vidya"
+"daanya"
